@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "SpecV Automations",
   description: "Web Platform Engineering Handbook",
-  base: "/handbook/",
+  base: "/docs/",
   cleanUrls: true,
   appearance: 'force-dark',
 
