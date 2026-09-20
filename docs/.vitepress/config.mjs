@@ -8,7 +8,7 @@ export default defineConfig({
   appearance: 'force-dark',
 
   themeConfig: {
-    siteTitle: "SPECV DEC DOCS",
+    siteTitle: "SPECV DEV DOCS",
 
     search: {
       provider: 'local'
