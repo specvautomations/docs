@@ -6,9 +6,6 @@ layout: doc
 
 Internal engineering standard for website developers. You write website code, test it, and push it to GitHub. Automated pipelines and the DevOps engineer handle deployment and perimeter security.
 
-Language: simple English. Every technical term is defined in the lexicon.
-
-This is Document 2 of 2. (Document 1 is reserved for DevOps engineering.)
 
 <div class="telemetry-card">
   <div class="telemetry-node">
